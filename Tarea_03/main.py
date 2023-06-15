@@ -9,9 +9,6 @@ procesamiento = df.iloc[0:, 2].tolist()
 fluencia_mpa = df.iloc[0:, 5].tolist()
 fluencia_kpsi = df.iloc[0:, 6].tolist()
 estado = []  # Lista para alamacenar si falla o no el material 
-
-
-
 while True:
     tipo_unidades = str(input('\nIngrese el número que desea:\n1. Unidades SI\n2. Unidades Inglesas\n3. Salir \n --> '))
     if tipo_unidades == '1' or tipo_unidades== '2': 
