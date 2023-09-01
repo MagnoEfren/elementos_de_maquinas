@@ -1,5 +1,4 @@
 ## Elementos de maquinas
-
 ### GUI para la selección de bandas  V - Elementos de Maquinas
 <p align="left"> </p>
 <a href='https://www.youtube.com/@MagnoEfren' target='_blank'>
