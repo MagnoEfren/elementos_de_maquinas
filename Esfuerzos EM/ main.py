@@ -3,6 +3,7 @@ from datetime import datetime
 import numpy as np 
 import pandas as pd
 
+
 df = pd.read_excel('datos.xlsx')  # Lectura del archivo excel
 # Lectura de las columnas usadas y convertidas a lista.
 material = df.iloc[0:, 1].tolist()
